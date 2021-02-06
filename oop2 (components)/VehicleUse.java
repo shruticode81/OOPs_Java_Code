@@ -1,5 +1,5 @@
 //vehicle use class
-
+package vehicle;
 public class VehicleUse{
 
 	public static void main(String[] args){
